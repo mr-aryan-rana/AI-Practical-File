@@ -43,7 +43,7 @@ predictions = final_model.predict(x_test[:10])
 predicted_labels = np.argmax(predictions, axis=1)
 plt.figure(figsize=(8, 4))
 for i in range(2):
-    plt.suptitle("Name : Aryan Rana | Roll No. : 1323223", fontsize=8)
+    plt.suptitle("Name : Krishna | Roll No. : 1323215", fontsize=8)
     plt.subplot(1, 2, i + 1)
     plt.imshow(x_test[i].reshape(28, 28), cmap='gray')
     plt.title(f"Pred: {predicted_labels[i]}, True: {y_test[i]}")

@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 # Example DataFrame
 data = {
     'A': [1, 2, np.nan, 4],

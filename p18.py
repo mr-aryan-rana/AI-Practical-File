@@ -35,7 +35,7 @@ for i, path in enumerate(sample_images):
     plt.subplot(1, 3, i + 1)
     plt.imshow(cv2.cvtColor(marked, cv2.COLOR_BGR2RGB))
     plt.title(f"Tumor: {'Yes' if 'yes' in path else 'No'}", fontsize=8)
-    plt.suptitle("Name : Aryan Rana | Roll No. : 1323223", fontsize=10)
+    plt.suptitle("Name : Krishna | Roll No. : 1323215", fontsize=10)
     plt.axis('off')
 plt.tight_layout()
 plt.show()

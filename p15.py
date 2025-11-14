@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from lazypredict.Supervised import LazyClassifier
 
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 
 # 2️⃣ Load the dataset
 df = pd.read_csv("diabetes.csv")  # <-- ensure data.csv is in the same folder
@@ -33,7 +33,7 @@ print("\nMissing values after cleaning:\n", df.isnull().sum())
 plt.figure(figsize=(12,8))
 sns.heatmap(df.corr(), annot=True, cmap='coolwarm')
 plt.title("Feature Correlation - Pima Indians Diabetes Dataset")
-plt.suptitle("Aryan Rana", fontsize=12, fontweight='bold')
+plt.suptitle("Krishna", fontsize=12, fontweight='bold')
 plt.show()
 
 # 5️⃣ Split dataset (70:30)
@@ -60,7 +60,7 @@ plt.figure(figsize=(5,4))
 sns.heatmap(cm, annot=True, fmt='d', cmap='Blues')
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
-plt.suptitle("Aryan Rana", fontsize=12, fontweight='bold')
+plt.suptitle("Krishna", fontsize=12, fontweight='bold')
 plt.title('Confusion Matrix - Random Forest')
 plt.show()
 

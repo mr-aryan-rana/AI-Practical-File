@@ -1,5 +1,5 @@
 # List of string numbers
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 string_numbers = ["10", "3", "45", "2", "8"]
 
 # Step 1: Convert strings to integers

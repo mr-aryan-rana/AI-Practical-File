@@ -44,5 +44,5 @@ for i in range(2):
     plt.title(f"Pred: {predicted_labels[i]}, True: {y_test[i]}")
     plt.axis('off')
 plt.tight_layout()
-plt.suptitle("Name : Aryan Rana | Roll No. : 1323223", fontsize=10)
+plt.suptitle("Name : Krishna | Roll No. : 1323215", fontsize=10)
 plt.show()

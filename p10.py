@@ -1,5 +1,5 @@
 import pandas as pd
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 # Load dataset
 df = pd.read_csv("myntra.csv")
 

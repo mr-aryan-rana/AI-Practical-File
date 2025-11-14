@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
-print("name : Aryan Rana | Roll No. : 1323223")
+print("name : Krishna | Roll No. : 1323215")
 if not api_key:
     raise ValueError("GEMINI_API_KEY is missing in the .env file.")
 genai.configure(api_key=api_key)

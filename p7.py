@@ -1,5 +1,5 @@
 import numpy as np
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 # Example NumPy array
 arr = np.array([2, 5, 8, 10, 12, 15])
 

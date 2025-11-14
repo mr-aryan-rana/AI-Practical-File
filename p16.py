@@ -19,7 +19,7 @@ df["Cluster"] = labels
 
 plt.figure(figsize=(8, 6))
 plt.scatter(df["PC1"], df["PC2"], c=df["Cluster"], cmap="viridis", s=50)
-plt.suptitle("Name : Aryan Rana | Roll No. : 1323223", fontsize=10)
+plt.suptitle("Name : Krishna | Roll No. : 1323215", fontsize=10)
 plt.title("K-Means Clusters on Iris Dataset (PCA Reduced)")
 plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")

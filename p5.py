@@ -1,5 +1,5 @@
 # Sample list
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 my_list = ["apple", "banana", "apple", "orange", "banana", "apple"]
 
 # Dictionary to store frequency

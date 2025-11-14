@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 # 2️⃣ Load the Iris dataset
 iris = load_iris()
 df = pd.DataFrame(iris.data, columns=iris.feature_names)

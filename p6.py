@@ -1,5 +1,5 @@
 # Two sample lists
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 list1 = [1, 2, 3, 4, 5, 5, 2]
 list2 = [4, 5, 6, 7, 5, 4]
 

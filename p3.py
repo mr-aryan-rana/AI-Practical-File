@@ -1,5 +1,5 @@
 # Print all prime numbers between 1 and 100
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Krishna \nRoll No : 1323215")
 
 print("Prime numbers between 1 and 100 are:")
 

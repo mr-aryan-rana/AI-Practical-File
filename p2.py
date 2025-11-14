@@ -1,5 +1,5 @@
 # Inverted right-angled triangle star pattern
-print("Name : Aryan Rana \nRoll No : 1323223")
+print("Name : Ashish Rana \nRoll No : 1323174")
 
 rows = 5  # Number of rows
 
